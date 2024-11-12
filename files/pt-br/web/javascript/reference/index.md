@@ -5,7 +5,7 @@ slug: Web/JavaScript/Reference
 
 ## [Sobre essa Referência](/pt-BR/docs/JavaScript/Reference/About)
 
-
+<!-- TODO: page macro not supported: page("/pt-BR/docs/JavaScript/Reference/About") -->
 
 ## [Objetos Globais](/pt-BR/docs/JavaScript/Reference/Global_Objects)
 
@@ -18,11 +18,9 @@ slug: Web/JavaScript/Reference
 
 ## [Declarações](/pt-BR/docs/JavaScript/Reference/Statements)
 
-
+<!-- TODO: page macro not supported: page('/pt-BR/docs/JavaScript/Reference/Statements') -->
 
 ## [Operadores e outras palavras-chave](/pt-BR/docs/JavaScript/Reference/Operators)
-
-
 
 ## Comentários
 
